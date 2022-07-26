@@ -1,0 +1,4 @@
+Names: Dominik Luszczynski, 
+Primary Method of Communication: Instragram and Zoom
+Daily Standup Time: Weekdays at 18:00 EST
+Version Control System: GitHub
