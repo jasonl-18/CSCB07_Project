@@ -1,4 +1,4 @@
-Names: Dominik Luszczynski, Farhan Bin Faisal
+Names: Dominik Luszczynski, Farhan Bin Faisal, Hyunmo Jeong
 Primary Method of Communication: Instragram and Zoom
 Daily Standup Time: Weekdays at 18:00 EST
 Version Control System: GitHub
