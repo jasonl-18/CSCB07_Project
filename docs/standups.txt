@@ -1,0 +1,23 @@
+July 28
+
+Name:  Dominik Luszczynski
+What have you done since yesterday?
+          	- Familiarize myself with Android Studio.
+          	- Start working on a sample version of my assigned user story (trying to make a working RecyclerView)
+What are you planning on doing today?
+          	- Try and finish my sample user story, fixing the issues I have with it.
+Any impediments or stumbling blocks?
+          	- Lack of time with classes and tons of assignments.
+          	- Sample RecyclerView is not responding at the moment, I need to figure out the issue with it.
+
+July 29
+Name:  Dominik Luszczynski
+What have you done since yesterday?
+          	- Finished my sample user story, so that it is ready to be copied and tweaked once the login is uploaded.
+          	- Fixed issue that I had yesterday (I assumed the database as all strings when the Players field was a number).
+What are you planning on doing today?
+          	- Make tweaks to the UI possibly.
+Any impediments or stumbling blocks?
+          	- Lack of time with classes and tons of assignments.
+
+
