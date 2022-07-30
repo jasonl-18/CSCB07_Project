@@ -9,8 +9,16 @@ What are you planning on doing today?
 Any impediments or stumbling blocks?
           	- Lack of time with classes and tons of assignments.
           	- Sample RecyclerView is not responding at the moment, I need to figure out the issue with it.
-
+Name: Aviraj Waraich
+What have you done since yesterday?
+          - Met up and started with logging into accounts and seeing how the project will work around
+What are you planning on doing today?
+          - Trying to see what part of the app I can get started with
+Any impediments or stumbling blocks?
+          - Laziness and slow Android Studio
+          
 July 29
+
 Name:  Dominik Luszczynski
 What have you done since yesterday?
           	- Finished my sample user story, so that it is ready to be copied and tweaked once the login is uploaded.
@@ -19,5 +27,11 @@ What are you planning on doing today?
           	- Make tweaks to the UI possibly.
 Any impediments or stumbling blocks?
           	- Lack of time with classes and tons of assignments.
-
+Name: Aviraj Waraich
+What have you done since yesterday?
+          - Starting looking a Android Studio and leanring how the databases works.
+What are you planning on doing today?
+          - Getting familiarize with Android Studio, JIRA and firebase
+Any impediments or stumbling blocks?
+          - coop assignmened work and laziness
 
