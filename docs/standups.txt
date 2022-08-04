@@ -76,12 +76,10 @@ August 02
 Name:  Dominik Luszczynski
 What have you done since yesterday?
         - Attended a meeting about merging our user stories and the direction of the sprint.
-
 What are you planning on doing today?
         - Polish the user story.
         - Figure out branches in visual studio code (android section is empty and I am not too sure how to add an entre new app folder (only option is add new file))
         - uploaded files I create in a branch to GitHub as a compromise
-
 Any impediments or stumbling blocks?
         - Assignments from other courses.
         - Android studio can be a bit slow when other apps are running
@@ -104,10 +102,8 @@ Name:  Dominik Luszczynski
 What have you done since yesterday?
                   - Attended a meeting about merging our user stories and the direction of the sprint.
                   - Upload files for RecyclerView and User Story 4 so that others can copy and use it for listing events.
-
 What are you planning on doing today?
                   - Make the UI look nicer.
-
 Any impediments or stumbling blocks?
                   - Assignments from other courses.
                   - Android studio can be a bit slow when other apps are running
