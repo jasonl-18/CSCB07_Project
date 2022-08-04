@@ -16,6 +16,16 @@ What are you planning on doing today?
           - Trying to see what part of the app I can get started with
 Any impediments or stumbling blocks?
           - Laziness and slow Android Studio
+
+Name:  Farhan Bin Faisal
+What have you done since yesterday?
+          	- Familiarize myself with Android Studio.
+          	- Learning to use intents and putExtra method to send more information from one activity to next
+What are you planning on doing today?
+          	- Learn to use Shared Preferences so that 
+Any impediments or stumbling blocks?
+          	- Pressing back button to return to previous activity then clicking button to go to next activity produces error
+                    - So value that was being passed to next activity via intent is not being saved
           
 July 29
 
@@ -34,4 +44,42 @@ What are you planning on doing today?
           - Getting familiarize with Android Studio, JIRA and firebase
 Any impediments or stumbling blocks?
           - coop assignmened work and laziness
+
+Name:  Farhan Bin Faisal
+What have you done since yesterday?
+          	- Learn to use shared content
+          	- These are a better way to save information independent of activities
+                    - So I use this to get information into an activity regardless of how many times I go back and forth between activities
+What are you planning on doing today?
+          	- Learn to use ListView with Custom Objects
+                    - Learn to implement my own adapter class
+Any impediments or stumbling blocks?
+          	- I am trying to implement listview with custom objects to complete user story 2
+                    - But putting buttons on list view items is making the code very cluttered
+                    - Need to figure out a better way to do things
+                    
+August 02
+Name:  Farhan Bin Faisal
+What have you done since yesterday?
+          	- Implemented user story 2 using ListView with dummy Venue Objects
+What are you planning on doing today?
+          	- Try to extract venues from firebase and use those instead of self created data
+                    - Implement a join event button on each venue item which will all the user to see/join all events from that particular venue
+Any impediments or stumbling blocks?
+          	- I am not able to figure out how to extract nexted lists from firebase
+                    - Each Venue node has a list of eventNodes that contain event information
+                    - Need to figure this out
+                    
+ 
+August 03
+Name:  Farhan Bin Faisal
+What have you done since yesterday?
+          	- Implemented the Join event button in each Venue row
+                    - User can now Schedule/join events from the Venue List View Page
+                    - I learned how to use HashMaps to extract nested data from firebase
+What are you planning on doing today?
+          	- Merge my code with my GroupMates to make a functional app
+Any impediments or stumbling blocks?
+          	- Some of our data structures are not exactly alike
+                    - Need to agree on Event and Venue data structures before merging
 
