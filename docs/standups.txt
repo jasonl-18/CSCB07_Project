@@ -71,7 +71,14 @@ What are you planning on doing today?
 Any impediments or stumbling blocks?
                   - Assignments from other courses.
                   - Android studio can be a bit slow
-
+Name: Aviraj Waraich
+What have you done since yesterday?
+          - Wroked getting the admin buttons
+What are you planning on doing today?
+          - Wrokon getting started with textedit
+Any impediments or stumbling blocks?
+          - None
+          
 August 02
 Name:  Dominik Luszczynski
 What have you done since yesterday?
