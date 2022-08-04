@@ -9,6 +9,7 @@ What are you planning on doing today?
 Any impediments or stumbling blocks?
           	- Lack of time with classes and tons of assignments.
           	- Sample RecyclerView is not responding at the moment, I need to figure out the issue with it.
+
 Name: Aviraj Waraich
 What have you done since yesterday?
           - Met up and started with logging into accounts and seeing how the project will work around
@@ -37,6 +38,7 @@ What are you planning on doing today?
           	- Make tweaks to the UI possibly.
 Any impediments or stumbling blocks?
           	- Lack of time with classes and tons of assignments.
+
 Name: Aviraj Waraich
 What have you done since yesterday?
           - Starting looking a Android Studio and leanring how the databases works.
@@ -58,23 +60,16 @@ Any impediments or stumbling blocks?
                     - But putting buttons on list view items is making the code very cluttered
                     - Need to figure out a better way to do things
                     
-
-
-
 August 1
 Name:  Dominik Luszczynski
 What have you done since yesterday?
-
                   - Did research on how to keep track of which user is logged into the app.
 
 What are you planning on doing today?
-
                   - Try to implement it in my test user story.
 
 Any impediments or stumbling blocks?
-
                   - Assignments from other courses.
-
                   - Android studio can be a bit slow
 
 August 02
@@ -107,21 +102,15 @@ Any impediments or stumbling blocks?
 August 03
 Name:  Dominik Luszczynski
 What have you done since yesterday?
-
                   - Attended a meeting about merging our user stories and the direction of the sprint.
-
                   - Upload files for RecyclerView and User Story 4 so that others can copy and use it for listing events.
 
 What are you planning on doing today?
-
                   - Make the UI look nicer.
 
 Any impediments or stumbling blocks?
-
                   - Assignments from other courses.
-
                   - Android studio can be a bit slow when other apps are running
-
                   - Branches in visual studio code, will wait for someone to upload the login pages for the app, then add my files from there.
                   
 Name:  Farhan Bin Faisal
