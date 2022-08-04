@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity3">
+
+    <TextView
+        android:id="@+id/SportsText"
+        android:layout_width="377dp"
+        android:layout_height="113dp"
+        android:layout_marginTop="128dp"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.84"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/StimeText" />
+
+    <TextView
+        android:id="@+id/SportsName"
+        android:layout_width="268dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="332dp"
+        android:text="Sports Activities:"
+        android:textSize="35sp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="4dp" />
+
+    <TextView
+        android:id="@+id/EtimeText"
+        android:layout_width="226dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:textSize="48sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.978"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/StimeText" />
+
+    <Button
+        android:id="@+id/confirm"
+        android:layout_width="165dp"
+        android:layout_height="72dp"
+        android:layout_marginTop="252dp"
+        android:layout_marginEnd="16dp"
+        android:text="Confirm"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/EtimeText" />
+
+    <TextView
+        android:id="@+id/EtimeName"
+        android:layout_width="177dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="28dp"
+        android:text="End Time:"
+        android:textSize="35sp"
+        app:layout_constraintTop_toBottomOf="@+id/StimeName"
+        tools:layout_editor_absoluteX="4dp" />
+
+    <TextView
+        android:id="@+id/StimeText"
+        android:layout_width="226dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:textSize="48sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.978"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/DateText" />
+
+    <TextView
+        android:id="@+id/StimeName"
+        android:layout_width="175dp"
+        android:layout_height="51dp"
+        android:layout_marginTop="28dp"
+        android:text="Start Time:"
+        android:textSize="35sp"
+        app:layout_constraintTop_toBottomOf="@+id/DateName"
+        tools:layout_editor_absoluteX="4dp" />
+
+    <TextView
+        android:id="@+id/DateText"
+        android:layout_width="219dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="20dp"
+        android:textSize="48sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.95"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/VenueText" />
+
+    <TextView
+        android:id="@+id/DateName"
+        android:layout_width="112dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="28dp"
+        android:text="Date:"
+        android:textSize="35sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/VenueName" />
+
+    <TextView
+        android:id="@+id/VenueText"
+        android:layout_width="218dp"
+        android:layout_height="63dp"
+        android:layout_marginTop="36dp"
+        android:textSize="48sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.95"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/VenueName"
+        android:layout_width="111dp"
+        android:layout_height="49dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="16dp"
+        android:text="Venue:"
+        android:textSize="35sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="165dp"
+        android:layout_height="72dp"
+        android:layout_marginTop="288dp"
+        android:text="Go Back"
+        app:layout_constraintEnd_toStartOf="@+id/confirm"
+        app:layout_constraintHorizontal_bias="0.246"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/EtimeName" />
+</androidx.constraintlayout.widget.ConstraintLayout>
