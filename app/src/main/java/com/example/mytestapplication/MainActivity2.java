@@ -22,6 +22,7 @@ import java.util.Locale;
 
 public class MainActivity2 extends AppCompatActivity {
     EditText Venue;
+    EditText Name;
     Button EventDate;
     Button Stattime;
     Button Endtime;
@@ -109,6 +110,7 @@ public class MainActivity2 extends AppCompatActivity {
 
 
         Venue = findViewById(R.id.Venue);
+        Name = findViewById(R.id.Name);
         EventDate = findViewById(R.id.editTextDate);
         Stattime = findViewById(R.id.Stime);
         Endtime = findViewById(R.id.Etime);
@@ -173,6 +175,7 @@ public class MainActivity2 extends AppCompatActivity {
 
     public void openMainActivity3(){
         Intent intent = new Intent(this,MainActivity3.class);
+        intent.putExtra("Name", Name.getText().toString());
         intent.putExtra("Venue", Venue.getText().toString());
         intent.putExtra("Date", EventDate.getText().toString());
         intent.putExtra("Start Time", Stattime.getText().toString());

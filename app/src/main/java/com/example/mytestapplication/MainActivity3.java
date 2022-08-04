@@ -23,6 +23,7 @@ import java.util.Map;
 
 public class MainActivity3 extends AppCompatActivity {
     TextView VenueText;
+    TextView NameText;
     TextView EventDate;
     TextView Stattime;
     TextView Endtime;
@@ -36,6 +37,7 @@ public class MainActivity3 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main3);
 
+        NameText = findViewById(R.id.NameText);
         VenueText = findViewById(R.id.VenueText);
         EventDate = findViewById(R.id.DateText);
         Stattime = findViewById(R.id.StimeText);
@@ -44,6 +46,7 @@ public class MainActivity3 extends AppCompatActivity {
 
         Intent intent = getIntent();
 
+        NameText.setText(intent.getStringExtra("Name"));
         VenueText.setText(intent.getStringExtra("Venue"));
         EventDate.setText(intent.getStringExtra("Date"));
         Stattime.setText(intent.getStringExtra("Start Time"));
@@ -63,6 +66,7 @@ public class MainActivity3 extends AppCompatActivity {
         ConfirmButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                String Name = NameText.getText().toString();
                 String Location = VenueText.getText().toString();
                 String Date = EventDate.getText().toString();
                 String Start_Time = Stattime.getText().toString();
@@ -71,6 +75,7 @@ public class MainActivity3 extends AppCompatActivity {
 
                 HashMap<String,String> Venues = new HashMap<>();
 
+                Venues.put("Name",Name);
                 Venues.put("Location",Location);
                 Venues.put("Date",Date);
                 Venues.put("Start Time",Start_Time);

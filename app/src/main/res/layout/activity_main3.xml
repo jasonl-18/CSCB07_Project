@@ -7,13 +7,24 @@
     tools:context=".MainActivity3">
 
     <TextView
+        android:id="@+id/NameName"
+        android:layout_width="111dp"
+        android:layout_height="49dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="16dp"
+        android:text="Name:"
+        android:textSize="35sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
         android:id="@+id/SportsText"
         android:layout_width="377dp"
         android:layout_height="113dp"
-        android:layout_marginTop="128dp"
+        android:layout_marginTop="124dp"
         android:textSize="25sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.84"
+        app:layout_constraintHorizontal_bias="0.882"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/StimeText" />
 
@@ -21,7 +32,7 @@
         android:id="@+id/SportsName"
         android:layout_width="268dp"
         android:layout_height="49dp"
-        android:layout_marginTop="332dp"
+        android:layout_marginTop="412dp"
         android:text="Sports Activities:"
         android:textSize="35sp"
         app:layout_constraintTop_toTopOf="parent"
@@ -42,7 +53,7 @@
         android:id="@+id/confirm"
         android:layout_width="165dp"
         android:layout_height="72dp"
-        android:layout_marginTop="252dp"
+        android:layout_marginTop="192dp"
         android:layout_marginEnd="16dp"
         android:text="Confirm"
         app:layout_constraintEnd_toEndOf="parent"
@@ -105,10 +116,21 @@
         android:id="@+id/VenueText"
         android:layout_width="218dp"
         android:layout_height="63dp"
-        android:layout_marginTop="36dp"
+        android:layout_marginTop="108dp"
         android:textSize="48sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.95"
+        app:layout_constraintHorizontal_bias="0.979"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/NameText"
+        android:layout_width="218dp"
+        android:layout_height="63dp"
+        android:layout_marginTop="32dp"
+        android:textSize="48sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.979"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -117,20 +139,20 @@
         android:layout_width="111dp"
         android:layout_height="49dp"
         android:layout_marginStart="4dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="28dp"
         android:text="Venue:"
         android:textSize="35sp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/NameName" />
 
     <Button
         android:id="@+id/back"
         android:layout_width="165dp"
         android:layout_height="72dp"
-        android:layout_marginTop="288dp"
+        android:layout_marginTop="228dp"
         android:text="Go Back"
         app:layout_constraintEnd_toStartOf="@+id/confirm"
-        app:layout_constraintHorizontal_bias="0.246"
+        app:layout_constraintHorizontal_bias="0.276"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/EtimeName" />
 </androidx.constraintlayout.widget.ConstraintLayout>
