@@ -36,7 +36,8 @@ What are you planning on doing today?
                     - Try to make a login/register page
 Any impediments or stumbling blocks?
                     - Time management with the other assignments
-          
+                  
+
 July 29
 
 Name:  Dominik Luszczynski
@@ -187,4 +188,13 @@ Any impediments or stumbling blocks?
         - Assignments from other courses.
         - Android studio is very slow sometimes
         - Had issues with branches but Farhan and Jason seemed to resolve it!
+        
+August 5
+Name:  Jason Li
+What have you done since yesterday?
+                    - Finished first part of user story - users are now able to view events
+What are you planning on doing today?
+                    - work on SpecificEvent UI
+Any impediments or stumbling blocks?
+                    - Time management with the other assignments 
 
