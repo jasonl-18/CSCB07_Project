@@ -102,7 +102,13 @@ Any impediments or stumbling blocks?
           	- I am not able to figure out how to extract nexted lists from firebase
                     - Each Venue node has a list of eventNodes that contain event information
                     - Need to figure this out
-                    
+Name: Aviraj Waraich
+What have you done since yesterday?
+          - Completed the Buttons to save user informnation
+What are you planning on doing today?
+          - Work on the getting started with the user infromation screen so admin can check if into is good
+Any impediments or stumbling blocks?
+          - None
 
 August 03
 Name:  Dominik Luszczynski
