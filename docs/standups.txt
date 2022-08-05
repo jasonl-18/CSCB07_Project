@@ -27,6 +27,15 @@ What are you planning on doing today?
 Any impediments or stumbling blocks?
           	- Pressing back button to return to previous activity then clicking button to go to next activity produces error
                     - So value that was being passed to next activity via intent is not being saved
+                    
+Name:  Hyunmo Jeong
+What have you done since yesterday?
+                    - Get familiar with Android Studio
+                    - Create a demo version of the application
+What are you planning on doing today?
+                    - Try to make a login/register page
+Any impediments or stumbling blocks?
+                    - Time management with the other assignments
           
 July 29
 
@@ -59,6 +68,14 @@ Any impediments or stumbling blocks?
           	- I am trying to implement listview with custom objects to complete user story 2
                     - But putting buttons on list view items is making the code very cluttered
                     - Need to figure out a better way to do things
+                   
+Name:  Hyunmo Jeong
+What have you done since yesterday?
+                    - Finishing up a login/register page and connect to a firebase
+What are you planning on doing today?
+                    - Getting firebase set up for a login/register page
+Any impediments or stumbling blocks?
+                    - Figuring out how to access to data stored in firebase
                     
 August 1
 Name:  Dominik Luszczynski
@@ -110,6 +127,14 @@ What are you planning on doing today?
 Any impediments or stumbling blocks?
           - None
 
+Name:  Hyunmo Jeong
+What have you done since yesterday?
+                    - Start implementing user story 7 and create a data structure for venue
+What are you planning on doing today?
+                    - Implement recyclerview to list the venues and implement quering algorithm
+Any impediments or stumbling blocks?
+                    - Using adapter and recyclerview took me a long time to implement
+                    
 August 03
 Name:  Dominik Luszczynski
 What have you done since yesterday?
@@ -140,6 +165,14 @@ What are you planning on doing today?
           - Preping for the interview tommmorrow.
 Any impediments or stumbling blocks?
           - None
+          
+Name:  Hyunmo Jeong
+What have you done since yesterday?
+                    - Finish up with my user story and attend a meeting
+What are you planning on doing today?
+                    - Figuring out and implementing additional features other than just quering venues for user story 7.
+Any impediments or stumbling blocks?
+                    - Improving UI of the activities that I have already made.
           
 
 August 4
