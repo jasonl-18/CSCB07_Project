@@ -132,4 +132,10 @@ What are you planning on doing today?
 Any impediments or stumbling blocks?
           	- Some of our data structures are not exactly alike
                     - Need to agree on Event and Venue data structures before merging
-
+Name: Aviraj Waraich
+What have you done since yesterday?
+          - Completed the user screeen and the given taks
+What are you planning on doing today?
+          - Preping for the interview tommmorrow.
+Any impediments or stumbling blocks?
+          - None
