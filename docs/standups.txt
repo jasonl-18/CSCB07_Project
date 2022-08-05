@@ -132,6 +132,7 @@ What are you planning on doing today?
 Any impediments or stumbling blocks?
           	- Some of our data structures are not exactly alike
                     - Need to agree on Event and Venue data structures before merging
+
 Name: Aviraj Waraich
 What have you done since yesterday?
           - Completed the user screeen and the given taks
@@ -139,3 +140,18 @@ What are you planning on doing today?
           - Preping for the interview tommmorrow.
 Any impediments or stumbling blocks?
           - None
+          
+
+August 4
+
+Name:  Dominik Luszczynski
+What have you done since yesterday?
+        - Not too much, busy with other assignments in other classes.
+What are you planning on doing today?
+        - Attend meeting for preparation before TA meeting on Friday.
+        - Add events joined and events scheduled activities in our new merged version
+Any impediments or stumbling blocks?
+        - Assignments from other courses.
+        - Android studio is very slow sometimes
+        - Had issues with branches but Farhan and Jason seemed to resolve it!
+
