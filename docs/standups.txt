@@ -37,7 +37,7 @@ What are you planning on doing today?
 Any impediments or stumbling blocks?
                     - Time management with the other assignments
                   
-
+------------------------------------------------------------------------------------------------------------------------------------------
 July 29
 
 Name:  Dominik Luszczynski
@@ -59,9 +59,10 @@ Any impediments or stumbling blocks?
 
 Name:  Farhan Bin Faisal
 What have you done since yesterday?
-          	- Learn to use shared content
+          	- Learn to use shared preferences
           	- These are a better way to save information independent of activities
-                    - So I use this to get information into an activity regardless of how many times I go back and forth between activities
+                    - So I use this to get information into an activity regardless of how many times I go back and forth between activities using the
+                    backbutton
 What are you planning on doing today?
           	- Learn to use ListView with Custom Objects
                     - Learn to implement my own adapter class
@@ -77,7 +78,9 @@ What are you planning on doing today?
                     - Getting firebase set up for a login/register page
 Any impediments or stumbling blocks?
                     - Figuring out how to access to data stored in firebase
-                    
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 August 1
 Name:  Dominik Luszczynski
 What have you done since yesterday?
@@ -89,6 +92,7 @@ What are you planning on doing today?
 Any impediments or stumbling blocks?
                   - Assignments from other courses.
                   - Android studio can be a bit slow
+
 Name: Aviraj Waraich
 What have you done since yesterday?
           - Wroked getting the admin buttons
@@ -97,6 +101,7 @@ What are you planning on doing today?
 Any impediments or stumbling blocks?
           - None
           
+------------------------------------------------------------------------------------------------------------------------------------------
 August 02
 Name:  Dominik Luszczynski
 What have you done since yesterday?
@@ -114,7 +119,7 @@ Name:  Farhan Bin Faisal
 What have you done since yesterday?
           	- Implemented user story 2 using ListView with dummy Venue Objects
 What are you planning on doing today?
-          	- Try to extract venues from firebase and use those instead of self created data
+          	- Try to extract venues from firebase and use those instead of mock data
                     - Implement a join event button on each venue item which will all the user to see/join all events from that particular venue
 Any impediments or stumbling blocks?
           	- I am not able to figure out how to extract nexted lists from firebase
@@ -136,6 +141,7 @@ What are you planning on doing today?
 Any impediments or stumbling blocks?
                     - Using adapter and recyclerview took me a long time to implement
                     
+------------------------------------------------------------------------------------------------------------------------------------------
 August 03
 Name:  Dominik Luszczynski
 What have you done since yesterday?
@@ -176,6 +182,7 @@ Any impediments or stumbling blocks?
                     - Improving UI of the activities that I have already made.
           
 
+------------------------------------------------------------------------------------------------------------------------------------------
 August 4
 
 Name:  Dominik Luszczynski
@@ -188,7 +195,8 @@ Any impediments or stumbling blocks?
         - Assignments from other courses.
         - Android studio is very slow sometimes
         - Had issues with branches but Farhan and Jason seemed to resolve it!
-        
+
+------------------------------------------------------------------------------------------------------------------------------------------
 August 5
 Name:  Jason Li
 What have you done since yesterday?
@@ -197,4 +205,33 @@ What are you planning on doing today?
                     - work on SpecificEvent UI
 Any impediments or stumbling blocks?
                     - Time management with the other assignments 
+
+Name: Farhan Bin Faisal
+What have you done since yesterday?
+                    - Familiarize with using GitHub from within android studio
+What are you planning on doing today?
+                    - Make the UI uniform throughout all activities
+Any impediments or stumbling blocks?
+                    - We might need to use another github altogether :(
+------------------------------------------------------------------------------------------------------------------------------------------
+August 8
+Name: Farhan Bin Faisal
+What have you done since yesterday?
+                    - Fixed a bug so that addition or joining an event by a user updates the participant count of the particular event throughout
+                    the database
+What are you planning on doing today?
+                    - Merge with Aviraj's admin login activities
+Any impediments or stumbling blocks?
+                    - Time management with the other assignments 
+------------------------------------------------------------------------------------------------------------------------------------------
+August 9
+Name: Farhan Bin Faisal
+What have you done since yesterday?
+                    - Merged with Aviraj's admin interface code
+What are you planning on doing today?
+                    - Deployed a function that checks for timing clashes when an event is scheduled
+                    - Function made by aviraj
+Any impediments or stumbling blocks?
+                    - We are done!
+------------------------------------------------------------------------------------------------------------------------------------------
 
