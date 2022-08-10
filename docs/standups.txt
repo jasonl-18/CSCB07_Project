@@ -213,6 +213,16 @@ What are you planning on doing today?
                     - Make the UI uniform throughout all activities
 Any impediments or stumbling blocks?
                     - We might need to use another github altogether :(
+                    
+Name:  Dominik Luszczynski
+What have you done since yesterday?
+        - Attend meeting with TA, updated new version of joined and scheduled events
+What are you planning on doing today?
+        -Work on user story 7
+Any impediments or stumbling blocks?
+        - Assignments from other courses.
+        - Android studio is very slow sometimes
+        - Had issues with branches but Farhan and Jason seemed to resolve it!
 ------------------------------------------------------------------------------------------------------------------------------------------
 August 8
 Name: Farhan Bin Faisal
@@ -223,6 +233,14 @@ What are you planning on doing today?
                     - Merge with Aviraj's admin login activities
 Any impediments or stumbling blocks?
                     - Time management with the other assignments 
+                    
+Name:  Dominik Luszczynski
+What have you done since yesterday?
+        - Finished first half of user story 7 (apart from the delete function)
+What are you planning on doing today?
+        - Finish some other assignments before finishing user story 7 tomorrow
+Any impediments or stumbling blocks?
+        - Assignments from other courses.
 ------------------------------------------------------------------------------------------------------------------------------------------
 August 9
 Name: Farhan Bin Faisal
@@ -233,5 +251,15 @@ What are you planning on doing today?
                     - Function made by aviraj
 Any impediments or stumbling blocks?
                     - We are done!
+                    
+Name:  Dominik Luszczynski
+What have you done since yesterday?
+        - Worked on other assignments
+        - Finished delete function this afternoon
+        - Cleaned up ui for all recycler views
+What are you planning on doing today?
+        - Clean anything up to make it look nicer
+Any impediments or stumbling blocks?
+        - None anymore, since we have finished
 ------------------------------------------------------------------------------------------------------------------------------------------
 
