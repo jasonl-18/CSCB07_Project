@@ -27,7 +27,15 @@ What are you planning on doing today?
 Any impediments or stumbling blocks?
           	- Pressing back button to return to previous activity then clicking button to go to next activity produces error
                     - So value that was being passed to next activity via intent is not being saved
-                    
+
+Name:  Jason Li
+What have you done since yesterday?
+                    - familiarize with Android Studio
+                   
+What are you planning on doing today?
+                    - use FireAuth to create login 
+Any impediments or stumbling blocks?
+                    - other assignments
 Name:  Hyunmo Jeong
 What have you done since yesterday?
                     - Get familiar with Android Studio
@@ -57,6 +65,15 @@ What are you planning on doing today?
 Any impediments or stumbling blocks?
           - coop assignmened work and laziness
 
+Name:  Jason Li
+What have you done since yesterday?
+                    - created Firebase account
+                   
+What are you planning on doing today?
+                    - continue with using FireAuthUI to create login 
+Any impediments or stumbling blocks?
+                    - other assignments
+                    
 Name:  Farhan Bin Faisal
 What have you done since yesterday?
           	- Learn to use shared preferences
@@ -93,6 +110,14 @@ Any impediments or stumbling blocks?
                   - Assignments from other courses.
                   - Android studio can be a bit slow
 
+Name:  Jason Li
+What have you done since yesterday?
+                    - created Firebase account
+                   
+What are you planning on doing today?
+                    - continue with using FireAuthUI to create login 
+Any impediments or stumbling blocks?
+                    - other assignments
 Name: Aviraj Waraich
 What have you done since yesterday?
           - Wroked getting the admin buttons
@@ -125,6 +150,17 @@ Any impediments or stumbling blocks?
           	- I am not able to figure out how to extract nexted lists from firebase
                     - Each Venue node has a list of eventNodes that contain event information
                     - Need to figure this out
+                    
+
+Name:  Jason Li
+What have you done since yesterday?
+                    - created navigation drawer UI
+                   
+What are you planning on doing today?
+                    - start with user story 3 
+Any impediments or stumbling blocks?
+                    - pushing and pulling from github is not working - need to figure how to
+                    
 Name: Aviraj Waraich
 What have you done since yesterday?
           - Completed the Buttons to save user informnation
@@ -207,7 +243,7 @@ Any impediments or stumbling blocks?
 August 5
 Name:  Jason Li
 What have you done since yesterday?
-                    - Finished first part of user story - users are now able to view events
+                    - Finished user story 3 - users are now able to view events
 What are you planning on doing today?
                     - work on SpecificEvent UI
 Any impediments or stumbling blocks?
