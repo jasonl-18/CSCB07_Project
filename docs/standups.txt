@@ -196,6 +196,13 @@ Any impediments or stumbling blocks?
         - Android studio is very slow sometimes
         - Had issues with branches but Farhan and Jason seemed to resolve it!
 
+Name: Aviraj Waraich
+What have you done since yesterday?
+          - Starting working on the login pages
+What are you planning on doing today?
+          - Complete the registarting user 
+Any impediments or stumbling blocks?
+          - other assignments 
 ------------------------------------------------------------------------------------------------------------------------------------------
 August 5
 Name:  Jason Li
@@ -223,6 +230,14 @@ Any impediments or stumbling blocks?
         - Assignments from other courses.
         - Android studio is very slow sometimes
         - Had issues with branches but Farhan and Jason seemed to resolve it!
+        
+Name: Aviraj Waraich
+What have you done since yesterday?
+          - Complete the Login and getting information of registaration
+What are you planning on doing today?
+          - Complete registaration of admin/user
+Any impediments or stumbling blocks?
+          - different class lecture and  assignments 
 ------------------------------------------------------------------------------------------------------------------------------------------
 August 8
 Name: Farhan Bin Faisal
@@ -241,6 +256,14 @@ What are you planning on doing today?
         - Finish some other assignments before finishing user story 7 tomorrow
 Any impediments or stumbling blocks?
         - Assignments from other courses.
+        
+Name: Aviraj Waraich
+What have you done since yesterday?
+          - Compelted registaration of admin/user
+What are you planning on doing today?
+          - Goining into making different Toast
+Any impediments or stumbling blocks?
+          - Coop Assginments
 ------------------------------------------------------------------------------------------------------------------------------------------
 August 9
 Name: Farhan Bin Faisal
@@ -261,5 +284,13 @@ What are you planning on doing today?
         - Clean anything up to make it look nicer
 Any impediments or stumbling blocks?
         - None anymore, since we have finished
+
+Name: Aviraj Waraich
+What have you done since yesterday?
+          - Compelted all of the Toast and different collusion test
+What are you planning on doing today?
+          - Finish everything and start with intense testing
+Any impediments or stumbling blocks?
+          - None
 ------------------------------------------------------------------------------------------------------------------------------------------
 
