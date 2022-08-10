@@ -232,6 +232,15 @@ Any impediments or stumbling blocks?
         - Android studio is very slow sometimes
         - Had issues with branches but Farhan and Jason seemed to resolve it!
 
+Name:  Jason Li
+What have you done since yesterday?
+                    - successfully integrated github and android studios
+               
+What are you planning on doing today?
+                    - finish user story 3 
+Any impediments or stumbling blocks?
+                    - other assignments
+                    
 Name: Aviraj Waraich
 What have you done since yesterday?
           - Starting working on the login pages
