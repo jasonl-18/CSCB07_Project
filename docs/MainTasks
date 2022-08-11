@@ -2,7 +2,7 @@ Dominik Luszczynski
   - User Story 4
       - Implented recycler view to smoothly show list of events (both scheduled and joined)
       - Others members were able to switch to using recycler view from list view following this
-  - User Story 7
+  - User Story 7 (Because Hyunmo dropped out of class, so it needed to get done even though I had tons of assignments due)
       - Enabled filtering of events by venue so that a list of venue appears when a venue is selected from the spinner
       - Made good use of the spinner feature
       - As part of "securely managing events at a venue", the admin can delete events at venues
