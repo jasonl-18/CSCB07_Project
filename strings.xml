@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testDisplayEvents</string>
+    <string name="userEventsButton_Send">Your Events</string>
+</resources>
